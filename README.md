@@ -3,6 +3,11 @@
 Merging Logic: https://github.com/kylealwyn/apollo-typescript-starter
 and https://www.apollographql.com/blog/modularizing-your-graphql-schema-code-d7f71d5ed5f2/
 
+Mocha and Chai: 
+https://dev.to/daniel_werner/testing-typescript-with-mocha-and-chai-5cl8
+
+https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
+
 A Apollo Server boilerplate with TypeScript support. Including development setup to ensure clean and working code before pushing.
 
 ## Included
