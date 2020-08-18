@@ -1,5 +1,7 @@
 ## About
 
+Merging Logic: https://github.com/kylealwyn/apollo-typescript-starter
+
 A Apollo Server boilerplate with TypeScript support. Including development setup to ensure clean and working code before pushing.
 
 ## Included
