@@ -1,6 +1,7 @@
 ## About
 
 Merging Logic: https://github.com/kylealwyn/apollo-typescript-starter
+and https://www.apollographql.com/blog/modularizing-your-graphql-schema-code-d7f71d5ed5f2/
 
 A Apollo Server boilerplate with TypeScript support. Including development setup to ensure clean and working code before pushing.
 
