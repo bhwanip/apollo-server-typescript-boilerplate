@@ -10,6 +10,13 @@ https://dev.to/daniel_werner/testing-typescript-with-mocha-and-chai-5cl8
 
 https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha
 
+Custom Directives:
+https://github.com/alexanderVu/apollo-server-constraint-directive
+
+https://github.com/profusion/apollo-validation-directives/blob/master/lib/auth.ts
+
+https://github.com/profusion/apollo-validation-directives/blob/master/lib/hasPermissions.ts
+
 A Apollo Server boilerplate with TypeScript support. Including development setup to ensure clean and working code before pushing.
 
 ## Included
