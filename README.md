@@ -3,6 +3,8 @@
 Merging Logic: https://github.com/kylealwyn/apollo-typescript-starter
 and https://www.apollographql.com/blog/modularizing-your-graphql-schema-code-d7f71d5ed5f2/
 
+Schema Spliting: https://github.com/bhirmbani/graphql-apollo-server-example
+
 Mocha and Chai: 
 https://dev.to/daniel_werner/testing-typescript-with-mocha-and-chai-5cl8
 
